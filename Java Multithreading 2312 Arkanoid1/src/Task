@@ -1,0 +1,18 @@
+2413 Arkanoid 1
+Let's write the Arkanoid game today.
+In the original, it looks something like this http://www.youtube.com/watch?v=Th-Z6QQ5AOQ
+To get started, we will write a simplified version of this game.
+We will have cubes, a ball and a flying "stand", which prevents the ball from falling.
+Therefore, we need classes:
+a) Arkanoid - a class in which the main actions take place. It will also have our entry point into the program, the main method.
+b) Ball - a ball.
+c) Brick - "bricks" that we shoot down with a ball.
+d) Stand - flying stand.
+Create them and don’t forget about the public static void main (String [] args) method in the Arkanoid class.
+
+Requirements:
+1. The Arkanoid class must be created in a separate file.
+2. The Ball class must be created in a separate file.
+3. The Brick class must be created in a separate file.
+4. The Stand class must be created in a separate file.
+5. The public static void main (String [] args) method must be created in the Arkanoid class.
